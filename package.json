@@ -1,0 +1,24 @@
+{
+  "name": "odin-tdd-practices",
+  "version": "1.0.0",
+  "description": "Test practices by using 'Jest' as test runner in 5 different functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbilgil/odin-tdd-practices.git"
+  },
+  "keywords": [],
+  "author": "Halil Bilgil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbilgil/odin-tdd-practices/issues"
+  },
+  "homepage": "https://github.com/hbilgil/odin-tdd-practices#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
+    "jest": "^28.1.3"
+  }
+}
