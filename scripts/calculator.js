@@ -1,5 +1,5 @@
 const add = function(a, b) {
-    return +a + +b;
+    return +a + +b; //returning strings into number to prevent concat strings
 };
   
 const subtract = function(a, b) {
